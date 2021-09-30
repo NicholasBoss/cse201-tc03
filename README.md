@@ -5,5 +5,3 @@ Kody
 -I like basketball
 
 Nick: I like music.
-
-
