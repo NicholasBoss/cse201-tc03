@@ -33,5 +33,22 @@ namespace cse201_tc03
             Console.WriteLine("Hello from Nicholas Boss!");
 >>>>>>> 645f49aa7adfe2367f7ba43120cf33139fa91d71
         }
+
+
+
+
+
+
+
+
+
+
+
+
+        static void greetingKody()
+        {
+            Console.WriteLine("Hello from Kody Smith!")
+        }
     }
+
 }
