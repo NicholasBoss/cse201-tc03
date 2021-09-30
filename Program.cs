@@ -12,11 +12,6 @@ namespace cse201_tc03
             GreetingAndyClarkson();
         }
 
-
-
-
-
-
         static void GreetingAndyClarkson()
         {
             Console.WriteLine("Hello everyone.");
