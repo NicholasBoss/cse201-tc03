@@ -10,6 +10,7 @@ namespace cse201_tc03
             GreetingMSGBoss();
             greetingKody();
             GreetingAndyClarkson();
+            greedingAoi();
         }
 
         static void GreetingAndyClarkson()
