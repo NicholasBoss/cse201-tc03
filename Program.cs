@@ -8,5 +8,18 @@ namespace cse201_tc03
         {
             Console.WriteLine("Welcome to our Collaborative Program!");
         }
-    }
+
+        
+        
+        
+        
+        
+        
+        
+        
+        static void MSGfromAoi void ()
+        {
+            Console.WriteLine("Ya Men! It's Aoi");
+        }
+    }    
 }
