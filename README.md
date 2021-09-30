@@ -5,3 +5,7 @@ This is the team challenge for week three
 Nick: I like music.
 
 Kody: I like basketball.
+
+
+
+Andy Clarkson: I have played the saxophone before and served my mission in California.
