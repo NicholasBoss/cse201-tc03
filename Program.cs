@@ -8,6 +8,7 @@ namespace cse201_tc03
         {
             Console.WriteLine("Welcome to our Collaborative Program!");
             GreetingMSGBoss();
+            greetingKody();
         }
 
         static void GreetingMSGBoss()
@@ -28,7 +29,7 @@ namespace cse201_tc03
 
         static void greetingKody()
         {
-            Console.WriteLine("Hello from Kody Smith!")
+            Console.WriteLine("Hello from Kody Smith!");
         }
     }
 
