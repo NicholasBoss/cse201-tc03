@@ -7,3 +7,5 @@ Nick: I like music.
 Kody: I like basketball.
 
 Aoi: I like Spider-Man
+
+Andy Clarkson: I have played the saxophone before and served my mission in California.
