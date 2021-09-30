@@ -26,10 +26,10 @@ namespace cse201_tc03
 
         }
 
-
-
-
-
+        static void greedingAoi()
+        {
+            Console.WriteLine("Yo! It's Aoi");
+        }
 
 
 
