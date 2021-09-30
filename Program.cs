@@ -7,6 +7,12 @@ namespace cse201_tc03
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to our Collaborative Program!");
+            GreetingMSGBoss();
+        }
+
+        static void GreetingMSGBoss()
+        {
+            Console.WriteLine("Hello from Nicholas Boss!");
         }
 
         
