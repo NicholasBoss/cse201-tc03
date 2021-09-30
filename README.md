@@ -2,9 +2,9 @@
 This is the team challenge for week three
 
 
+Nick: I like music.
 
-
-
+Kody: I like basketball.
 
 
 
